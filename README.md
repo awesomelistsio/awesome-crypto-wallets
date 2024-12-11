@@ -30,6 +30,7 @@
 ## Software Wallets
 
 - **[Electrum](https://electrum.org/)** - A lightweight Bitcoin wallet with advanced features for desktop and mobile.
+- **[Feather](https://featherwallet.org/)** - A lightweight Monero (XMR) wallet for Linux, Tails, Windows and macOS.
 - **[Exodus](https://www.exodus.com/)** - A user-friendly multi-currency wallet with a built-in exchange feature.
 - **[Mycelium](https://mycelium.com/)** - A popular mobile wallet known for its advanced privacy features.
 - **[Trust Wallet](https://trustwallet.com/)** - An open-source mobile wallet supporting a wide range of cryptocurrencies.
