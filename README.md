@@ -13,6 +13,7 @@
 - [Privacy-Focused Wallets](#privacy-focused-wallets)
 - [Browser Extension Wallets](#browser-extension-wallets)
 - [Mobile Wallets](#mobile-wallets)
+- [Wallets for Teams](#team-wallets)
 - [Backup and Recovery Tools](#backup-and-recovery-tools)
 - [Educational Resources](#educational-resources)
 - [Community and Forums](#community-and-forums)
@@ -72,6 +73,10 @@
 - **[Exodus Mobile](https://www.exodus.com/mobile/)** - The mobile version of the popular Exodus wallet, featuring a built-in exchange.
 - **[BlueWallet](https://bluewallet.io/)** - A mobile Bitcoin wallet with Lightning Network support.
 - **[Crypto.com Wallet](https://crypto.com/defi-wallet)** - A non-custodial mobile wallet by Crypto.com for storing and managing crypto assets.
+
+## Team Wallets
+- **[Fireblocks](https://www.fireblocks.com/)** - A custodial wallet for institutions with advanced security features
+- **[Stackup](https://www.stackup.fi/)** - A crypto wallet for startups with team access policies
 
 ## Backup and Recovery Tools
 
