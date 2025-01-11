@@ -13,7 +13,7 @@
 - [Privacy-Focused Wallets](#privacy-focused-wallets)
 - [Browser Extension Wallets](#browser-extension-wallets)
 - [Mobile Wallets](#mobile-wallets)
-- [Wallets for Teams](#team-wallets)
+- [Team Wallets](#team-wallets)
 - [Backup and Recovery Tools](#backup-and-recovery-tools)
 - [Educational Resources](#educational-resources)
 - [Community and Forums](#community-and-forums)
@@ -75,8 +75,9 @@
 - **[Crypto.com Wallet](https://crypto.com/defi-wallet)** - A non-custodial mobile wallet by Crypto.com for storing and managing crypto assets.
 
 ## Team Wallets
-- **[Fireblocks](https://www.fireblocks.com/)** - A custodial wallet for institutions with advanced security features
-- **[Stackup](https://www.stackup.fi/)** - A crypto wallet for startups with team access policies
+
+- **[Fireblocks](https://www.fireblocks.com/)** - A custodial wallet designed for institutions, offering advanced security features like MPC-based key management.
+- **[Stackup](https://www.stackup.fi/)** - A crypto wallet tailored for startups, featuring team access policies and collaborative asset management tools.
 
 ## Backup and Recovery Tools
 
