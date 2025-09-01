@@ -58,6 +58,7 @@
 - **[Samourai Wallet](https://samouraiwallet.com/)** - A mobile Bitcoin wallet focused on privacy and security, featuring CoinJoin and PayNym.
 - **[Monerujo](https://www.monerujo.io/)** - A mobile wallet for Monero (XMR) with a focus on privacy.
 - **[ZecWallet](https://www.zecwallet.co/)** - The official wallet for Zcash, supporting shielded (private) transactions.
+- **[Coin Wallet](https://coin.space/)** - Self-custodial multi-currency wallet for Bitcoin, Litecoin, and Monero. Does not use remote nodes for Monero, enhancing privacy.
 
 ## Browser Extension Wallets
 
