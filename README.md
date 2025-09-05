@@ -51,6 +51,7 @@
 - **[Guarda Wallet](https://guarda.com/)** - A non-custodial wallet supporting multiple cryptocurrencies, available on desktop, mobile, and web.
 - **[Edge Wallet](https://edge.app/)** - A user-friendly, multi-currency wallet with built-in exchange features.
 - **[Atomic Wallet](https://atomicwallet.io/)** - Supports over 500 cryptocurrencies with an integrated decentralized exchange.
+- **[Coin Wallet](https://coin.space/)** - Open-source, self-custodial wallet supporting 15+ blockchains. Runs a local node for Monero for enhanced privacy.
 
 ## Privacy-Focused Wallets
 
