@@ -44,6 +44,7 @@
 - **[Coldcard Wallet](https://coldcardwallet.com/)** - A Bitcoin-only hardware wallet focused on maximum security.
 - **[BitBox02](https://shiftcrypto.ch/bitbox02/)** - A secure and user-friendly hardware wallet supporting Bitcoin and Ethereum.
 - **[KeepKey](https://shapeshift.com/keepkey)** - A hardware wallet with a large screen and integration with the ShapeShift platform.
+- **[GRID+ LATTICE1 with safecards](https://gridplus.io/products/grid-lattice1)** - A multikey terminal device for hardware cards supporting multiple cryptocurrencies.
 
 ## Multi-Currency Wallets
 
