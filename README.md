@@ -41,6 +41,7 @@
 - **[Mycelium](https://mycelium.com/)** - A popular mobile wallet known for its advanced privacy features.
 - **[Trust Wallet](https://trustwallet.com/)** - An open-source mobile wallet supporting a wide range of cryptocurrencies.
 - **[Atomic Wallet](https://atomicwallet.io/)** - A multi-currency wallet with a built-in exchange and staking features.
+- **[Jota](https://github.com/franzos/jota)** - An IOTA Rebased desktop wallet with CLI, GUI, and browser extension, featuring Ledger hardware wallet support.
 
 ## Hardware Wallets
 
